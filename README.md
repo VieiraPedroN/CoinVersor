@@ -14,7 +14,7 @@ Um simples porem dinamico conversor de moedas utilizando a ExchangeRate-API para
 - Selecione a preimeira moeda e a segunda moeda
 - Clique em "Converter" e o valor será exibido abaixo
 
-- Você pode acessar projeto através do site [CoinVerso](https://coin-versor-pnv.netlify.app)
+- Você pode acessar projeto através do site [CoinVersor](https://coin-versor-pnv.netlify.app)
 
 ### Estrutura do Projeto
 
